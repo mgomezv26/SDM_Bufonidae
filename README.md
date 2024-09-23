@@ -1,6 +1,6 @@
 # SDM_Bufonidae
 
-Este repositorio contiene todo el código desarrollado para la realización del Trabajo Fin de Master (TFM) del Máster en Data Science y Business Analytics impartido por IFM. 
+Este repositorio contiene todo el código desarrollado para la realización del Trabajo Fin de Master (TFM) del Máster en Data Science y Business Analytics impartido por IFM Smart Education. 
 
 EL objetivo principal de este proyecto es analizar los patrones de distribución de especies europeas de la Familia Bufonidae (Gray, 1825) en Europa. A partir de este objetivo se pretende seleccionar 3 especies para las cuales se desarrollarán modelos de distribución de especies (SDM), mediante Random Forest,comparando la probabilidad de presencia en tres escenarios temporales diferentes a nivel europeo:
 
