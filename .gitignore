@@ -1,0 +1,86 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+.Renviron
+.Renviron.*
+.Rprofile.local
+*.pem
+*.key
+
+# Python environments and tooling caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+venv_*/
+env/
+.conda/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# R session state; source and dependency manifests remain trackable
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+renv/staging/
+
+# Jupyter: keep original notebooks and outputs
+.ipynb_checkpoints/
+.jupyter/
+
+# External data and generated scientific results
+/Data/
+/data/
+/01_PREPROCESADO/
+/02_PROCESAMIENTO_ESPACIAL/
+/Grid50/
+/DATA_SDM/
+/Results/
+/models/
+/outputs/
+*.pkl
+*.joblib
+*.tif
+*.tiff
+*.vrt
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.qix
+*.gpkg
+*.gpkg-wal
+*.gpkg-shm
+*.nc
+*.grd
+*.gri
+*.qgz
+*.qgs~
+*.zip
+*.7z
+
+# Thesis remains outside the repository
+TFM_Monica_Gomez_Vadillo_092024.pdf
+
+# Editor, OS and temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+~$*
+
+# No blanket exclusion of PNG, Markdown, JSON or .ipynb files.
+# docs/figures/ publication assets intentionally remain trackable.

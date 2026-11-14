@@ -1,0 +1,62 @@
+[
+  {
+    "file": "observed-species-distributions.png",
+    "source_notebook": "02_Procesamiento_espacial_Europa_Bufonidae.ipynb",
+    "cell_number_1_based": 14,
+    "output_index_0_based": 0,
+    "mime_type": "image/png",
+    "width": 1989,
+    "height": 977,
+    "sha256": "65144af2615894a1c7f675601caf4e6e62939b9b1114528c69f9517cf589b673"
+  },
+  {
+    "file": "epidalea-calamita-2050-rcp85.png",
+    "source_notebook": "09_SDM_Epidalea_calamita.ipynb",
+    "cell_number_1_based": 113,
+    "output_index_0_based": 0,
+    "mime_type": "image/png",
+    "width": 666,
+    "height": 438,
+    "sha256": "266d91f354c38afd225c250e0f4a72043a7dbbc7f84b9735df47e2ae991866d5"
+  },
+  {
+    "file": "epidalea-calamita-change-rcp85.png",
+    "source_notebook": "12_Diff_SDM_Epidalea_calamita .ipynb",
+    "cell_number_1_based": 28,
+    "output_index_0_based": 0,
+    "mime_type": "image/png",
+    "width": 682,
+    "height": 448,
+    "sha256": "c68a0cd24e2b822f24fb6cc239b694d1666a986a5f1e9b58a7f887afa4e34593"
+  },
+  {
+    "file": "bufo-bufo-test-roc.png",
+    "source_notebook": "07_SDM_Bufo_bufo.ipynb",
+    "cell_number_1_based": 62,
+    "output_index_0_based": 0,
+    "mime_type": "image/png",
+    "width": 857,
+    "height": 624,
+    "sha256": "40193b90c408aa969e7cf7219cfd5437a7840f2ee56fe19d4ea65bf0af407d17"
+  },
+  {
+    "file": "bufo-spinosus-confusion-matrix.png",
+    "source_notebook": "08_SDM_Bufo_spinosus.ipynb",
+    "cell_number_1_based": 66,
+    "output_index_0_based": 0,
+    "mime_type": "image/png",
+    "width": 520,
+    "height": 438,
+    "sha256": "b18ff2618dbc22672e7ddb0b732fed066fd9e3230d4078f3b86c155bb246cacc"
+  },
+  {
+    "file": "predictor-correlations.png",
+    "source_notebook": "06_Analisis_variables_independientes.ipynb",
+    "cell_number_1_based": 18,
+    "output_index_0_based": 0,
+    "mime_type": "image/png",
+    "width": 793,
+    "height": 745,
+    "sha256": "44e8fd014ae27b70509d49b67b4cac487188dff38cedb0cb59d26f3bb42dbd3e"
+  }
+]
